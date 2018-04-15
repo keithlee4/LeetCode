@@ -18,6 +18,7 @@
 		647C2F74205381EF000ABB35 /* RemoveElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647C2F73205381EF000ABB35 /* RemoveElement.swift */; };
 		647C2F762053825A000ABB35 /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647C2F752053825A000ABB35 /* TwoSum.swift */; };
 		647C2F78205383D9000ABB35 /* 3Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647C2F77205383D9000ABB35 /* 3Sum.swift */; };
+		64CDD3A2208326DA0016E5F7 /* 3SumClosest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64CDD3A1208326DA0016E5F7 /* 3SumClosest.swift */; };
 		64D8543E2012D6000080F697 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64D8543D2012D6000080F697 /* AppDelegate.swift */; };
 		64D854402012D6000080F697 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64D8543F2012D6000080F697 /* ViewController.swift */; };
 		64D854432012D6000080F697 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64D854412012D6000080F697 /* Main.storyboard */; };
@@ -42,6 +43,7 @@
 		647C2F73205381EF000ABB35 /* RemoveElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveElement.swift; sourceTree = "<group>"; };
 		647C2F752053825A000ABB35 /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 		647C2F77205383D9000ABB35 /* 3Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3Sum.swift; sourceTree = "<group>"; };
+		64CDD3A1208326DA0016E5F7 /* 3SumClosest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3SumClosest.swift; sourceTree = "<group>"; };
 		64D8543A2012D6000080F697 /* LeetCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		64D8543D2012D6000080F697 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		64D8543F2012D6000080F697 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 				6408FD7920143E1100C80F7A /* MajorityElement2.swift */,
 				647C2F6F20537BB3000ABB35 /* RemoveDuplicatesFromSortedArray2.swift */,
 				647C2F77205383D9000ABB35 /* 3Sum.swift */,
+				64CDD3A1208326DA0016E5F7 /* 3SumClosest.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				6408FD7C20145A8E00C80F7A /* IntersectionOfTwoArrays.swift in Sources */,
 				64D854532012DBCE0080F697 /* Heaters.swift in Sources */,
 				64D854402012D6000080F697 /* ViewController.swift in Sources */,
+				64CDD3A2208326DA0016E5F7 /* 3SumClosest.swift in Sources */,
 				647C2F7020537BB3000ABB35 /* RemoveDuplicatesFromSortedArray2.swift in Sources */,
 				64D8543E2012D6000080F697 /* AppDelegate.swift in Sources */,
 				64D8545920132F6D0080F697 /* MajorityElement.swift in Sources */,
