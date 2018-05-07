@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		53D7EDC620A097BE003E82FD /* SummaryRanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D7EDC520A097BE003E82FD /* SummaryRanges.swift */; };
 		6408FD7A20143E1100C80F7A /* MajorityElement2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6408FD7920143E1100C80F7A /* MajorityElement2.swift */; };
 		6408FD7C20145A8E00C80F7A /* IntersectionOfTwoArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6408FD7B20145A8E00C80F7A /* IntersectionOfTwoArrays.swift */; };
 		6408FD7E20145B4A00C80F7A /* IntersectionOfTwoArrays2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6408FD7D20145B4A00C80F7A /* IntersectionOfTwoArrays2.swift */; };
@@ -33,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		53D7EDC520A097BE003E82FD /* SummaryRanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryRanges.swift; sourceTree = "<group>"; };
 		6408FD7920143E1100C80F7A /* MajorityElement2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorityElement2.swift; sourceTree = "<group>"; };
 		6408FD7B20145A8E00C80F7A /* IntersectionOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArrays.swift; sourceTree = "<group>"; };
 		6408FD7D20145B4A00C80F7A /* IntersectionOfTwoArrays2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArrays2.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 				647C2F77205383D9000ABB35 /* 3Sum.swift */,
 				64CDD3A1208326DA0016E5F7 /* 3SumClosest.swift */,
 				64ADE65D20835FA800212481 /* 4Sum.swift */,
+				53D7EDC520A097BE003E82FD /* SummaryRanges.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 				6408FD7E20145B4A00C80F7A /* IntersectionOfTwoArrays2.swift in Sources */,
 				647C2F78205383D9000ABB35 /* 3Sum.swift in Sources */,
 				647C2F762053825A000ABB35 /* TwoSum.swift in Sources */,
+				53D7EDC620A097BE003E82FD /* SummaryRanges.swift in Sources */,
 				6408FD8020157FB600C80F7A /* ContainsDuplicate.swift in Sources */,
 				64D854512012D8130080F697 /* MaxConsecutiveOnes.swift in Sources */,
 				647C2F7220537DE8000ABB35 /* MoveZeroes.swift in Sources */,
