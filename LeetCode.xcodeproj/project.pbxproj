@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		53D7EDC620A097BE003E82FD /* SummaryRanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D7EDC520A097BE003E82FD /* SummaryRanges.swift */; };
+		53D7EDC820A6D210003E82FD /* Minimum Size Subarray Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D7EDC720A6D210003E82FD /* Minimum Size Subarray Sum.swift */; };
 		6408FD7A20143E1100C80F7A /* MajorityElement2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6408FD7920143E1100C80F7A /* MajorityElement2.swift */; };
 		6408FD7C20145A8E00C80F7A /* IntersectionOfTwoArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6408FD7B20145A8E00C80F7A /* IntersectionOfTwoArrays.swift */; };
 		6408FD7E20145B4A00C80F7A /* IntersectionOfTwoArrays2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6408FD7D20145B4A00C80F7A /* IntersectionOfTwoArrays2.swift */; };
@@ -35,6 +36,7 @@
 
 /* Begin PBXFileReference section */
 		53D7EDC520A097BE003E82FD /* SummaryRanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryRanges.swift; sourceTree = "<group>"; };
+		53D7EDC720A6D210003E82FD /* Minimum Size Subarray Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimum Size Subarray Sum.swift"; sourceTree = "<group>"; };
 		6408FD7920143E1100C80F7A /* MajorityElement2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MajorityElement2.swift; sourceTree = "<group>"; };
 		6408FD7B20145A8E00C80F7A /* IntersectionOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArrays.swift; sourceTree = "<group>"; };
 		6408FD7D20145B4A00C80F7A /* IntersectionOfTwoArrays2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntersectionOfTwoArrays2.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				64CDD3A1208326DA0016E5F7 /* 3SumClosest.swift */,
 				64ADE65D20835FA800212481 /* 4Sum.swift */,
 				53D7EDC520A097BE003E82FD /* SummaryRanges.swift */,
+				53D7EDC720A6D210003E82FD /* Minimum Size Subarray Sum.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -226,6 +229,7 @@
 				64D8545920132F6D0080F697 /* MajorityElement.swift in Sources */,
 				647C2F74205381EF000ABB35 /* RemoveElement.swift in Sources */,
 				6408FD7A20143E1100C80F7A /* MajorityElement2.swift in Sources */,
+				53D7EDC820A6D210003E82FD /* Minimum Size Subarray Sum.swift in Sources */,
 				64D85457201318E00080F697 /* IslandPerimeter.swift in Sources */,
 				64ADE65E20835FA800212481 /* 4Sum.swift in Sources */,
 				647C2F6C205376F2000ABB35 /* ContainsDuplicate2.swift in Sources */,
